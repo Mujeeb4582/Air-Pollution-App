@@ -54,11 +54,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Air Pollution App <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+This mobile-web application retrieves data on air pollution from an API and displays it in a web browser. It was designed using React and Redux.
 
 ## 🛠 Built With <a name="built-with"></a>
 
