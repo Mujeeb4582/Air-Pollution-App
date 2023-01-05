@@ -14,6 +14,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ec4c8a;
+  color: white;
 }
 
 code {
@@ -24,4 +26,18 @@ code {
     Consolas,
     'Courier New',
     monospace;
+}
+
+.backgroundColorOdd {
+  background-color: #da4c7a;
+}
+
+.table-row:nth-child(odd) {
+  background-color: #ec4c8a;
+}
+
+.countryDetails:hover {
+  transform: scale(1.06);
+  transition: all 0.5s;
+  background-color: #dc2879;
 }
