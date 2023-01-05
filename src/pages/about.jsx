@@ -1,17 +1,12 @@
-import React, { useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
-import { fetchData } from '../redux/pollution-reducer/pollutionSlice';
+import React from 'react';
+import { useSelector } from 'react-redux';
+import MapChart from '../Components/map';
 
 const About = () => {
   const pollutionData = useSelector((state) => state.airPollution);
-  const dispatch = useDispatch();
-  useEffect(() => {
-    dispatch(fetchData());
-  }, [dispatch]);
-  console.log(pollutionData);
   return (
-    <div>
-      <h2>list of air pollution</h2>
+    <div className="text-center">
+      <MapChart />
       {pollutionData.loading && <h2>Loading...</h2>}
       {!pollutionData.loading && pollutionData.error ? (
         <h2>
@@ -22,31 +17,59 @@ const About = () => {
       ) : null}
       {!pollutionData.loading && pollutionData.pollutionData.list ? (
         <>
-          <ul>
-            <span>Air Quality Index:&emsp;</span>
-            {pollutionData.pollutionData.list[0].main.aqi}
-            <p>
-              Date:&emsp;
-              {new Date(pollutionData.pollutionData.list[1].dt).toLocaleDateString('en-US')}
-            </p>
-          </ul>
-          <table style={{ width: '100%', border: '1px solid black' }}>
+          <div style={{ textAlign: 'center', margin: '16px 0' }}>
+            <h4>
+              {pollutionData.pollutionData.countryName}
+              ,&nbsp;
+              {pollutionData.pollutionData.countrySymbol}
+            </h4>
+            <h6>
+              Date:&nbsp;
+              {new Date(
+                pollutionData.pollutionData.list[1].dt,
+              ).toLocaleDateString('en-US')}
+              &emsp;&emsp;
+              <span>Air Quality Index:&nbsp;</span>
+              {pollutionData.pollutionData.list[0].main.aqi}
+            </h6>
+          </div>
+          <table
+            style={{
+              textAlign: 'center',
+              width: '100%',
+              backgroundColor: '#da4c7a',
+            }}
+          >
             <thead>
-              <tr>
-                <th style={{ width: '50%', border: '1px solid black' }}>Gases</th>
-                <th style={{ width: '100%', border: '1px solid black' }}>Pollutant concentration in μg/m3</th>
+              <tr className="fs-4">
+                <th
+                  style={{ width: '50%' }}
+                  className="py-2"
+                >
+                  Gases
+                </th>
+                <th
+                  style={{ width: '100%' }}
+                  className="py-2"
+                >
+                  Pollutant concentration in μg/m3
+                </th>
               </tr>
             </thead>
             <tbody>
-              {Object.entries(pollutionData.pollutionData.list[1].components).map(([key, val]) => (
-                <tr key={val}>
-                  <td style={{ border: '1px solid black' }}>{key.toUpperCase()}</td>
-                  <td style={{ border: '1px solid black' }}>{val}</td>
+              {Object.entries(
+                pollutionData.pollutionData.list[1].components,
+              ).map(([key, val]) => (
+                <tr
+                  key={val}
+                  className="table-row"
+                >
+                  <td className="py-3 fs-5">{key.toUpperCase()}</td>
+                  <td className="py-3 fs-5">{val}</td>
                 </tr>
               ))}
             </tbody>
           </table>
-
         </>
       ) : null}
     </div>
