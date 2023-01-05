@@ -2,12 +2,7 @@ import { createAsyncThunk, createSlice } from '@reduxjs/toolkit';
 import axios from 'axios';
 
 const url = 'http://api.openweathermap.org/data/2.5/air_pollution/forecast';
-const latitude = '?lat=23.424076';
-const longitude = '&lon=53.847818';
 const apiKey = '&appid=c3ad0c612e1693bd45bccf53fc4b9b2e';
-const finalURL = `${url}${latitude}${longitude}${apiKey}`;
-
-console.log('URL', finalURL);
 
 const initialState = {
   loading: false,
@@ -15,7 +10,15 @@ const initialState = {
   error: '',
 };
 
-export const fetchData = createAsyncThunk('AIR_POLLUTION_DATA', () => axios.get(finalURL).then((response) => response.data));
+const rearrangeData = (apiData, localData) => {
+  // Combine the data
+  const data = { ...apiData, ...localData };
+  return data;
+};
+
+export const fetchData = createAsyncThunk('AIR_POLLUTION_DATA', (coordinate) => axios
+  .get(`${url}?lat=${coordinate.lat}&lon=${coordinate.long}${apiKey}`)
+  .then((response) => rearrangeData(response.data, coordinate)));
 
 const pollutionSlice = createSlice({
   name: 'pollutionData',
