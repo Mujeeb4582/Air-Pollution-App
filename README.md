@@ -58,6 +58,14 @@ After you're finished please remove all the comments and instructions!
 
 This mobile-web application retrieves data on air pollution from an API and displays it in a web browser. It was designed using React and Redux.
 
+## 🛠 App Screen-Shots <a name="app-screen-shots"></a>
+
+<div align="center">
+    <img src="./src/images/HomePage.jpeg" width="300px"</img> 
+    <img src="./src/images/DetailsPage.jpeg" width="300px"</img> 
+</div>
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 <a name="built-with">![HTML](https://img.shields.io/badge/-HTML-orange) <br> ![CSS](https://img.shields.io/badge/-CSS-blue) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) <br> ![Webpack](https://img.shields.io/badge/-Webpack-green) <br> ![React.js](https://img.shields.io/badge/-Rect.js-black)</a>
