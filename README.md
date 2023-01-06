@@ -98,8 +98,6 @@ This mobile-web application retrieves data on air pollution from an API and disp
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Demo Link](https://air-pollution.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -130,7 +128,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Mujeeb4582/Space-X.git
+  git clone https://github.com/Mujeeb4582/Air-Pollution-App.git
 ```
 
 ### Install
@@ -171,8 +169,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Mujeeb ur Rahman**
 
 - GitHub: [@Mujeeb4582](https://github.com/Mujeeb4582)
@@ -196,7 +192,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mujeeb4582/Air-Pollution-App/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,9 +200,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give a Star⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +219,6 @@ If you like this project...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **How to open the Air pollution details?**
 
