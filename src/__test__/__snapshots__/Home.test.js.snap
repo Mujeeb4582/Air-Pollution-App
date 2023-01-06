@@ -1,0 +1,5657 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home component should match the snapshot 1`] = `
+<div>
+  <div
+    class="text-center"
+  >
+    <svg
+      class="rsm-svg "
+      style="fill: #2a354d; background-color: rgb(218, 76, 122);"
+      viewBox="0 0 800 600"
+    >
+      <g
+        class="rsm-geographies "
+        data-testid="map"
+      />
+    </svg>
+    <div
+      class="mx-4"
+    >
+      <div
+        class="my-3 input-group"
+      >
+        <input
+          aria-describedby="basic-addon2"
+          aria-label="Search by country name....!"
+          class="form-control"
+          placeholder="Search by country name....!"
+          value=""
+        />
+      </div>
+    </div>
+    <h5
+      class="text-start ps-4 py-1 backgroundColorOdd"
+    >
+      STATS BY COUNTRY
+    </h5>
+    <div
+      class="m-0 d-flex flex-wrap justify-content-center"
+      style="cursor: pointer;"
+    >
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 3"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AD
+          </h5>
+          <h6>
+            Andorra
+          </h6>
+          <p>
+            latitude: 
+            42.55
+            <br />
+            longitude: 
+            1.6
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AE
+          </h5>
+          <h6>
+            United Arab Emirates
+          </h6>
+          <p>
+            latitude: 
+            23.42
+            <br />
+            longitude: 
+            53.85
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AF
+          </h5>
+          <h6>
+            Afghanistan
+          </h6>
+          <p>
+            latitude: 
+            33.94
+            <br />
+            longitude: 
+            67.71
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 4"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AG
+          </h5>
+          <h6>
+            Antigua and Barbuda
+          </h6>
+          <p>
+            latitude: 
+            17.06
+            <br />
+            longitude: 
+            -61.8
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 7"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AI
+          </h5>
+          <h6>
+            Anguilla
+          </h6>
+          <p>
+            latitude: 
+            18.22
+            <br />
+            longitude: 
+            -63.07
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AL
+          </h5>
+          <h6>
+            Albania
+          </h6>
+          <p>
+            latitude: 
+            41.15
+            <br />
+            longitude: 
+            20.17
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AM
+          </h5>
+          <h6>
+            Armenia
+          </h6>
+          <p>
+            latitude: 
+            40.07
+            <br />
+            longitude: 
+            45.04
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 8"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AN
+          </h5>
+          <h6>
+            Netherlands Antilles
+          </h6>
+          <p>
+            latitude: 
+            12.23
+            <br />
+            longitude: 
+            -69.06
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 11"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AO
+          </h5>
+          <h6>
+            Angola
+          </h6>
+          <p>
+            latitude: 
+            -11.2
+            <br />
+            longitude: 
+            17.87
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AQ
+          </h5>
+          <h6>
+            Antarctica
+          </h6>
+          <p>
+            latitude: 
+            -75.25
+            <br />
+            longitude: 
+            -0.07
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AR
+          </h5>
+          <h6>
+            Argentina
+          </h6>
+          <p>
+            latitude: 
+            -38.42
+            <br />
+            longitude: 
+            -63.62
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 12"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AS
+          </h5>
+          <h6>
+            American Samoa
+          </h6>
+          <p>
+            latitude: 
+            -14.27
+            <br />
+            longitude: 
+            -170.13
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 15"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AT
+          </h5>
+          <h6>
+            Austria
+          </h6>
+          <p>
+            latitude: 
+            47.52
+            <br />
+            longitude: 
+            14.55
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AU
+          </h5>
+          <h6>
+            Australia
+          </h6>
+          <p>
+            latitude: 
+            -25.27
+            <br />
+            longitude: 
+            133.78
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AW
+          </h5>
+          <h6>
+            Aruba
+          </h6>
+          <p>
+            latitude: 
+            12.52
+            <br />
+            longitude: 
+            -69.97
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 16"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            AZ
+          </h5>
+          <h6>
+            Azerbaijan
+          </h6>
+          <p>
+            latitude: 
+            40.14
+            <br />
+            longitude: 
+            47.58
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 19"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BA
+          </h5>
+          <h6>
+            Bosnia and Herzegovina
+          </h6>
+          <p>
+            latitude: 
+            43.92
+            <br />
+            longitude: 
+            17.68
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BB
+          </h5>
+          <h6>
+            Barbados
+          </h6>
+          <p>
+            latitude: 
+            13.19
+            <br />
+            longitude: 
+            -59.54
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BD
+          </h5>
+          <h6>
+            Bangladesh
+          </h6>
+          <p>
+            latitude: 
+            23.68
+            <br />
+            longitude: 
+            90.36
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 20"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BE
+          </h5>
+          <h6>
+            Belgium
+          </h6>
+          <p>
+            latitude: 
+            50.5
+            <br />
+            longitude: 
+            4.47
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 23"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BF
+          </h5>
+          <h6>
+            Burkina Faso
+          </h6>
+          <p>
+            latitude: 
+            12.24
+            <br />
+            longitude: 
+            -1.56
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BG
+          </h5>
+          <h6>
+            Bulgaria
+          </h6>
+          <p>
+            latitude: 
+            42.73
+            <br />
+            longitude: 
+            25.49
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BH
+          </h5>
+          <h6>
+            Bahrain
+          </h6>
+          <p>
+            latitude: 
+            25.93
+            <br />
+            longitude: 
+            50.64
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 24"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BI
+          </h5>
+          <h6>
+            Burundi
+          </h6>
+          <p>
+            latitude: 
+            -3.37
+            <br />
+            longitude: 
+            29.92
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 27"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BJ
+          </h5>
+          <h6>
+            Benin
+          </h6>
+          <p>
+            latitude: 
+            9.31
+            <br />
+            longitude: 
+            2.32
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BM
+          </h5>
+          <h6>
+            Bermuda
+          </h6>
+          <p>
+            latitude: 
+            32.32
+            <br />
+            longitude: 
+            -64.76
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BN
+          </h5>
+          <h6>
+            Brunei
+          </h6>
+          <p>
+            latitude: 
+            4.54
+            <br />
+            longitude: 
+            114.73
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 28"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BO
+          </h5>
+          <h6>
+            Bolivia
+          </h6>
+          <p>
+            latitude: 
+            -16.29
+            <br />
+            longitude: 
+            -63.59
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 31"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BR
+          </h5>
+          <h6>
+            Brazil
+          </h6>
+          <p>
+            latitude: 
+            -14.24
+            <br />
+            longitude: 
+            -51.93
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BS
+          </h5>
+          <h6>
+            Bahamas
+          </h6>
+          <p>
+            latitude: 
+            25.03
+            <br />
+            longitude: 
+            -77.4
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BT
+          </h5>
+          <h6>
+            Bhutan
+          </h6>
+          <p>
+            latitude: 
+            27.51
+            <br />
+            longitude: 
+            90.43
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 32"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BV
+          </h5>
+          <h6>
+            Bouvet Island
+          </h6>
+          <p>
+            latitude: 
+            -54.42
+            <br />
+            longitude: 
+            3.41
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 35"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BW
+          </h5>
+          <h6>
+            Botswana
+          </h6>
+          <p>
+            latitude: 
+            -22.33
+            <br />
+            longitude: 
+            24.68
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BY
+          </h5>
+          <h6>
+            Belarus
+          </h6>
+          <p>
+            latitude: 
+            53.71
+            <br />
+            longitude: 
+            27.95
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            BZ
+          </h5>
+          <h6>
+            Belize
+          </h6>
+          <p>
+            latitude: 
+            17.19
+            <br />
+            longitude: 
+            -88.5
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 36"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CA
+          </h5>
+          <h6>
+            Canada
+          </h6>
+          <p>
+            latitude: 
+            56.13
+            <br />
+            longitude: 
+            -106.35
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 39"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CC
+          </h5>
+          <h6>
+            Cocos [Keeling] Islands
+          </h6>
+          <p>
+            latitude: 
+            -12.16
+            <br />
+            longitude: 
+            96.87
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CD
+          </h5>
+          <h6>
+            Congo [DRC]
+          </h6>
+          <p>
+            latitude: 
+            -4.04
+            <br />
+            longitude: 
+            21.76
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CF
+          </h5>
+          <h6>
+            Central African Republic
+          </h6>
+          <p>
+            latitude: 
+            6.61
+            <br />
+            longitude: 
+            20.94
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 40"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CG
+          </h5>
+          <h6>
+            Congo [Republic]
+          </h6>
+          <p>
+            latitude: 
+            -0.23
+            <br />
+            longitude: 
+            15.83
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 43"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CH
+          </h5>
+          <h6>
+            Switzerland
+          </h6>
+          <p>
+            latitude: 
+            46.82
+            <br />
+            longitude: 
+            8.23
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CI
+          </h5>
+          <h6>
+            Côte d'Ivoire
+          </h6>
+          <p>
+            latitude: 
+            7.54
+            <br />
+            longitude: 
+            -5.55
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CK
+          </h5>
+          <h6>
+            Cook Islands
+          </h6>
+          <p>
+            latitude: 
+            -21.24
+            <br />
+            longitude: 
+            -159.78
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 44"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CL
+          </h5>
+          <h6>
+            Chile
+          </h6>
+          <p>
+            latitude: 
+            -35.68
+            <br />
+            longitude: 
+            -71.54
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 47"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CM
+          </h5>
+          <h6>
+            Cameroon
+          </h6>
+          <p>
+            latitude: 
+            7.37
+            <br />
+            longitude: 
+            12.35
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CN
+          </h5>
+          <h6>
+            China
+          </h6>
+          <p>
+            latitude: 
+            35.86
+            <br />
+            longitude: 
+            104.2
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CO
+          </h5>
+          <h6>
+            Colombia
+          </h6>
+          <p>
+            latitude: 
+            4.57
+            <br />
+            longitude: 
+            -74.3
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 48"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CR
+          </h5>
+          <h6>
+            Costa Rica
+          </h6>
+          <p>
+            latitude: 
+            9.75
+            <br />
+            longitude: 
+            -83.75
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 51"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CU
+          </h5>
+          <h6>
+            Cuba
+          </h6>
+          <p>
+            latitude: 
+            21.52
+            <br />
+            longitude: 
+            -77.78
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CV
+          </h5>
+          <h6>
+            Cape Verde
+          </h6>
+          <p>
+            latitude: 
+            16
+            <br />
+            longitude: 
+            -24.01
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CX
+          </h5>
+          <h6>
+            Christmas Island
+          </h6>
+          <p>
+            latitude: 
+            -10.45
+            <br />
+            longitude: 
+            105.69
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 52"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CY
+          </h5>
+          <h6>
+            Cyprus
+          </h6>
+          <p>
+            latitude: 
+            35.13
+            <br />
+            longitude: 
+            33.43
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 55"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            CZ
+          </h5>
+          <h6>
+            Czech Republic
+          </h6>
+          <p>
+            latitude: 
+            49.82
+            <br />
+            longitude: 
+            15.47
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            DE
+          </h5>
+          <h6>
+            Germany
+          </h6>
+          <p>
+            latitude: 
+            51.17
+            <br />
+            longitude: 
+            10.45
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            DJ
+          </h5>
+          <h6>
+            Djibouti
+          </h6>
+          <p>
+            latitude: 
+            11.83
+            <br />
+            longitude: 
+            42.59
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 56"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            DK
+          </h5>
+          <h6>
+            Denmark
+          </h6>
+          <p>
+            latitude: 
+            56.26
+            <br />
+            longitude: 
+            9.5
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 59"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            DM
+          </h5>
+          <h6>
+            Dominica
+          </h6>
+          <p>
+            latitude: 
+            15.41
+            <br />
+            longitude: 
+            -61.37
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            DO
+          </h5>
+          <h6>
+            Dominican Republic
+          </h6>
+          <p>
+            latitude: 
+            18.74
+            <br />
+            longitude: 
+            -70.16
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            DZ
+          </h5>
+          <h6>
+            Algeria
+          </h6>
+          <p>
+            latitude: 
+            28.03
+            <br />
+            longitude: 
+            1.66
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 60"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            EC
+          </h5>
+          <h6>
+            Ecuador
+          </h6>
+          <p>
+            latitude: 
+            -1.83
+            <br />
+            longitude: 
+            -78.18
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 63"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            EE
+          </h5>
+          <h6>
+            Estonia
+          </h6>
+          <p>
+            latitude: 
+            58.6
+            <br />
+            longitude: 
+            25.01
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            EG
+          </h5>
+          <h6>
+            Egypt
+          </h6>
+          <p>
+            latitude: 
+            26.82
+            <br />
+            longitude: 
+            30.8
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            EH
+          </h5>
+          <h6>
+            Western Sahara
+          </h6>
+          <p>
+            latitude: 
+            24.22
+            <br />
+            longitude: 
+            -12.89
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 64"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ER
+          </h5>
+          <h6>
+            Eritrea
+          </h6>
+          <p>
+            latitude: 
+            15.18
+            <br />
+            longitude: 
+            39.78
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 67"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ES
+          </h5>
+          <h6>
+            Spain
+          </h6>
+          <p>
+            latitude: 
+            40.46
+            <br />
+            longitude: 
+            -3.75
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ET
+          </h5>
+          <h6>
+            Ethiopia
+          </h6>
+          <p>
+            latitude: 
+            9.15
+            <br />
+            longitude: 
+            40.49
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            FI
+          </h5>
+          <h6>
+            Finland
+          </h6>
+          <p>
+            latitude: 
+            61.92
+            <br />
+            longitude: 
+            25.75
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 68"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            FJ
+          </h5>
+          <h6>
+            Fiji
+          </h6>
+          <p>
+            latitude: 
+            -16.58
+            <br />
+            longitude: 
+            179.41
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 71"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            FK
+          </h5>
+          <h6>
+            Falkland Islands [Islas Malvinas]
+          </h6>
+          <p>
+            latitude: 
+            -51.8
+            <br />
+            longitude: 
+            -59.52
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            FM
+          </h5>
+          <h6>
+            Micronesia
+          </h6>
+          <p>
+            latitude: 
+            7.43
+            <br />
+            longitude: 
+            150.55
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            FO
+          </h5>
+          <h6>
+            Faroe Islands
+          </h6>
+          <p>
+            latitude: 
+            61.89
+            <br />
+            longitude: 
+            -6.91
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 72"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            FR
+          </h5>
+          <h6>
+            France
+          </h6>
+          <p>
+            latitude: 
+            46.23
+            <br />
+            longitude: 
+            2.21
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 75"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GA
+          </h5>
+          <h6>
+            Gabon
+          </h6>
+          <p>
+            latitude: 
+            -0.8
+            <br />
+            longitude: 
+            11.61
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GB
+          </h5>
+          <h6>
+            United Kingdom
+          </h6>
+          <p>
+            latitude: 
+            55.38
+            <br />
+            longitude: 
+            -3.44
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GD
+          </h5>
+          <h6>
+            Grenada
+          </h6>
+          <p>
+            latitude: 
+            12.26
+            <br />
+            longitude: 
+            -61.6
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 76"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GE
+          </h5>
+          <h6>
+            Georgia
+          </h6>
+          <p>
+            latitude: 
+            42.32
+            <br />
+            longitude: 
+            43.36
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 79"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GF
+          </h5>
+          <h6>
+            French Guiana
+          </h6>
+          <p>
+            latitude: 
+            3.93
+            <br />
+            longitude: 
+            -53.13
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GG
+          </h5>
+          <h6>
+            Guernsey
+          </h6>
+          <p>
+            latitude: 
+            49.47
+            <br />
+            longitude: 
+            -2.59
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GH
+          </h5>
+          <h6>
+            Ghana
+          </h6>
+          <p>
+            latitude: 
+            7.95
+            <br />
+            longitude: 
+            -1.02
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 80"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GI
+          </h5>
+          <h6>
+            Gibraltar
+          </h6>
+          <p>
+            latitude: 
+            36.14
+            <br />
+            longitude: 
+            -5.35
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 83"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GL
+          </h5>
+          <h6>
+            Greenland
+          </h6>
+          <p>
+            latitude: 
+            71.71
+            <br />
+            longitude: 
+            -42.6
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GM
+          </h5>
+          <h6>
+            Gambia
+          </h6>
+          <p>
+            latitude: 
+            13.44
+            <br />
+            longitude: 
+            -15.31
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GN
+          </h5>
+          <h6>
+            Guinea
+          </h6>
+          <p>
+            latitude: 
+            9.95
+            <br />
+            longitude: 
+            -9.7
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 84"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GP
+          </h5>
+          <h6>
+            Guadeloupe
+          </h6>
+          <p>
+            latitude: 
+            17
+            <br />
+            longitude: 
+            -62.07
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 87"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GQ
+          </h5>
+          <h6>
+            Equatorial Guinea
+          </h6>
+          <p>
+            latitude: 
+            1.65
+            <br />
+            longitude: 
+            10.27
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GR
+          </h5>
+          <h6>
+            Greece
+          </h6>
+          <p>
+            latitude: 
+            39.07
+            <br />
+            longitude: 
+            21.82
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GS
+          </h5>
+          <h6>
+            South Georgia and the South Sandwich Islands
+          </h6>
+          <p>
+            latitude: 
+            -54.43
+            <br />
+            longitude: 
+            -36.59
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 88"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GT
+          </h5>
+          <h6>
+            Guatemala
+          </h6>
+          <p>
+            latitude: 
+            15.78
+            <br />
+            longitude: 
+            -90.23
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 91"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GU
+          </h5>
+          <h6>
+            Guam
+          </h6>
+          <p>
+            latitude: 
+            13.44
+            <br />
+            longitude: 
+            144.79
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GW
+          </h5>
+          <h6>
+            Guinea-Bissau
+          </h6>
+          <p>
+            latitude: 
+            11.8
+            <br />
+            longitude: 
+            -15.18
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GY
+          </h5>
+          <h6>
+            Guyana
+          </h6>
+          <p>
+            latitude: 
+            4.86
+            <br />
+            longitude: 
+            -58.93
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 92"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            GZ
+          </h5>
+          <h6>
+            Gaza Strip
+          </h6>
+          <p>
+            latitude: 
+            31.35
+            <br />
+            longitude: 
+            34.31
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 95"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            HK
+          </h5>
+          <h6>
+            Hong Kong
+          </h6>
+          <p>
+            latitude: 
+            22.4
+            <br />
+            longitude: 
+            114.11
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            HM
+          </h5>
+          <h6>
+            Heard Island and McDonald Islands
+          </h6>
+          <p>
+            latitude: 
+            -53.08
+            <br />
+            longitude: 
+            73.5
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            HN
+          </h5>
+          <h6>
+            Honduras
+          </h6>
+          <p>
+            latitude: 
+            15.2
+            <br />
+            longitude: 
+            -86.24
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 96"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            HR
+          </h5>
+          <h6>
+            Croatia
+          </h6>
+          <p>
+            latitude: 
+            45.1
+            <br />
+            longitude: 
+            15.2
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 99"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            HT
+          </h5>
+          <h6>
+            Haiti
+          </h6>
+          <p>
+            latitude: 
+            18.97
+            <br />
+            longitude: 
+            -72.29
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            HU
+          </h5>
+          <h6>
+            Hungary
+          </h6>
+          <p>
+            latitude: 
+            47.16
+            <br />
+            longitude: 
+            19.5
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ID
+          </h5>
+          <h6>
+            Indonesia
+          </h6>
+          <p>
+            latitude: 
+            -0.79
+            <br />
+            longitude: 
+            113.92
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 100"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IE
+          </h5>
+          <h6>
+            Ireland
+          </h6>
+          <p>
+            latitude: 
+            53.41
+            <br />
+            longitude: 
+            -8.24
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 103"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IL
+          </h5>
+          <h6>
+            Israel
+          </h6>
+          <p>
+            latitude: 
+            31.05
+            <br />
+            longitude: 
+            34.85
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IM
+          </h5>
+          <h6>
+            Isle of Man
+          </h6>
+          <p>
+            latitude: 
+            54.24
+            <br />
+            longitude: 
+            -4.55
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IN
+          </h5>
+          <h6>
+            India
+          </h6>
+          <p>
+            latitude: 
+            20.59
+            <br />
+            longitude: 
+            78.96
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 104"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IO
+          </h5>
+          <h6>
+            British Indian Ocean Territory
+          </h6>
+          <p>
+            latitude: 
+            -6.34
+            <br />
+            longitude: 
+            71.88
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 107"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IQ
+          </h5>
+          <h6>
+            Iraq
+          </h6>
+          <p>
+            latitude: 
+            33.22
+            <br />
+            longitude: 
+            43.68
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IR
+          </h5>
+          <h6>
+            Iran
+          </h6>
+          <p>
+            latitude: 
+            32.43
+            <br />
+            longitude: 
+            53.69
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IS
+          </h5>
+          <h6>
+            Iceland
+          </h6>
+          <p>
+            latitude: 
+            64.96
+            <br />
+            longitude: 
+            -19.02
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 108"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            IT
+          </h5>
+          <h6>
+            Italy
+          </h6>
+          <p>
+            latitude: 
+            41.87
+            <br />
+            longitude: 
+            12.57
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 111"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            JE
+          </h5>
+          <h6>
+            Jersey
+          </h6>
+          <p>
+            latitude: 
+            49.21
+            <br />
+            longitude: 
+            -2.13
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            JM
+          </h5>
+          <h6>
+            Jamaica
+          </h6>
+          <p>
+            latitude: 
+            18.11
+            <br />
+            longitude: 
+            -77.3
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            JO
+          </h5>
+          <h6>
+            Jordan
+          </h6>
+          <p>
+            latitude: 
+            30.59
+            <br />
+            longitude: 
+            36.24
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 112"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            JP
+          </h5>
+          <h6>
+            Japan
+          </h6>
+          <p>
+            latitude: 
+            36.2
+            <br />
+            longitude: 
+            138.25
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 115"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KE
+          </h5>
+          <h6>
+            Kenya
+          </h6>
+          <p>
+            latitude: 
+            -0.02
+            <br />
+            longitude: 
+            37.91
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KG
+          </h5>
+          <h6>
+            Kyrgyzstan
+          </h6>
+          <p>
+            latitude: 
+            41.2
+            <br />
+            longitude: 
+            74.77
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KH
+          </h5>
+          <h6>
+            Cambodia
+          </h6>
+          <p>
+            latitude: 
+            12.57
+            <br />
+            longitude: 
+            104.99
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 116"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KI
+          </h5>
+          <h6>
+            Kiribati
+          </h6>
+          <p>
+            latitude: 
+            -3.37
+            <br />
+            longitude: 
+            -168.73
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 119"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KM
+          </h5>
+          <h6>
+            Comoros
+          </h6>
+          <p>
+            latitude: 
+            -11.88
+            <br />
+            longitude: 
+            43.87
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KN
+          </h5>
+          <h6>
+            Saint Kitts and Nevis
+          </h6>
+          <p>
+            latitude: 
+            17.36
+            <br />
+            longitude: 
+            -62.78
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KP
+          </h5>
+          <h6>
+            North Korea
+          </h6>
+          <p>
+            latitude: 
+            40.34
+            <br />
+            longitude: 
+            127.51
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 120"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KR
+          </h5>
+          <h6>
+            South Korea
+          </h6>
+          <p>
+            latitude: 
+            35.91
+            <br />
+            longitude: 
+            127.77
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 123"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KW
+          </h5>
+          <h6>
+            Kuwait
+          </h6>
+          <p>
+            latitude: 
+            29.31
+            <br />
+            longitude: 
+            47.48
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KY
+          </h5>
+          <h6>
+            Cayman Islands
+          </h6>
+          <p>
+            latitude: 
+            19.51
+            <br />
+            longitude: 
+            -80.57
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            KZ
+          </h5>
+          <h6>
+            Kazakhstan
+          </h6>
+          <p>
+            latitude: 
+            48.02
+            <br />
+            longitude: 
+            66.92
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 124"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LA
+          </h5>
+          <h6>
+            Laos
+          </h6>
+          <p>
+            latitude: 
+            19.86
+            <br />
+            longitude: 
+            102.5
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 127"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LB
+          </h5>
+          <h6>
+            Lebanon
+          </h6>
+          <p>
+            latitude: 
+            33.85
+            <br />
+            longitude: 
+            35.86
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LC
+          </h5>
+          <h6>
+            Saint Lucia
+          </h6>
+          <p>
+            latitude: 
+            13.91
+            <br />
+            longitude: 
+            -60.98
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LI
+          </h5>
+          <h6>
+            Liechtenstein
+          </h6>
+          <p>
+            latitude: 
+            47.17
+            <br />
+            longitude: 
+            9.56
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 128"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LK
+          </h5>
+          <h6>
+            Sri Lanka
+          </h6>
+          <p>
+            latitude: 
+            7.87
+            <br />
+            longitude: 
+            80.77
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 131"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LR
+          </h5>
+          <h6>
+            Liberia
+          </h6>
+          <p>
+            latitude: 
+            6.43
+            <br />
+            longitude: 
+            -9.43
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LS
+          </h5>
+          <h6>
+            Lesotho
+          </h6>
+          <p>
+            latitude: 
+            -29.61
+            <br />
+            longitude: 
+            28.23
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LT
+          </h5>
+          <h6>
+            Lithuania
+          </h6>
+          <p>
+            latitude: 
+            55.17
+            <br />
+            longitude: 
+            23.88
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 132"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LU
+          </h5>
+          <h6>
+            Luxembourg
+          </h6>
+          <p>
+            latitude: 
+            49.82
+            <br />
+            longitude: 
+            6.13
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 135"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LV
+          </h5>
+          <h6>
+            Latvia
+          </h6>
+          <p>
+            latitude: 
+            56.88
+            <br />
+            longitude: 
+            24.6
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            LY
+          </h5>
+          <h6>
+            Libya
+          </h6>
+          <p>
+            latitude: 
+            26.34
+            <br />
+            longitude: 
+            17.23
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MA
+          </h5>
+          <h6>
+            Morocco
+          </h6>
+          <p>
+            latitude: 
+            31.79
+            <br />
+            longitude: 
+            -7.09
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 136"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MC
+          </h5>
+          <h6>
+            Monaco
+          </h6>
+          <p>
+            latitude: 
+            43.75
+            <br />
+            longitude: 
+            7.41
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 139"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MD
+          </h5>
+          <h6>
+            Moldova
+          </h6>
+          <p>
+            latitude: 
+            47.41
+            <br />
+            longitude: 
+            28.37
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ME
+          </h5>
+          <h6>
+            Montenegro
+          </h6>
+          <p>
+            latitude: 
+            42.71
+            <br />
+            longitude: 
+            19.37
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MG
+          </h5>
+          <h6>
+            Madagascar
+          </h6>
+          <p>
+            latitude: 
+            -18.77
+            <br />
+            longitude: 
+            46.87
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 140"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MH
+          </h5>
+          <h6>
+            Marshall Islands
+          </h6>
+          <p>
+            latitude: 
+            7.13
+            <br />
+            longitude: 
+            171.18
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 143"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MK
+          </h5>
+          <h6>
+            Macedonia [FYROM]
+          </h6>
+          <p>
+            latitude: 
+            41.61
+            <br />
+            longitude: 
+            21.75
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ML
+          </h5>
+          <h6>
+            Mali
+          </h6>
+          <p>
+            latitude: 
+            17.57
+            <br />
+            longitude: 
+            -4
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MM
+          </h5>
+          <h6>
+            Myanmar [Burma]
+          </h6>
+          <p>
+            latitude: 
+            21.91
+            <br />
+            longitude: 
+            95.96
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 144"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MN
+          </h5>
+          <h6>
+            Mongolia
+          </h6>
+          <p>
+            latitude: 
+            46.86
+            <br />
+            longitude: 
+            103.85
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 147"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MO
+          </h5>
+          <h6>
+            Macau
+          </h6>
+          <p>
+            latitude: 
+            22.2
+            <br />
+            longitude: 
+            113.54
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MP
+          </h5>
+          <h6>
+            Northern Mariana Islands
+          </h6>
+          <p>
+            latitude: 
+            17.33
+            <br />
+            longitude: 
+            145.38
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MQ
+          </h5>
+          <h6>
+            Martinique
+          </h6>
+          <p>
+            latitude: 
+            14.64
+            <br />
+            longitude: 
+            -61.02
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 148"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MR
+          </h5>
+          <h6>
+            Mauritania
+          </h6>
+          <p>
+            latitude: 
+            21.01
+            <br />
+            longitude: 
+            -10.94
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 151"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MS
+          </h5>
+          <h6>
+            Montserrat
+          </h6>
+          <p>
+            latitude: 
+            16.74
+            <br />
+            longitude: 
+            -62.19
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MT
+          </h5>
+          <h6>
+            Malta
+          </h6>
+          <p>
+            latitude: 
+            35.94
+            <br />
+            longitude: 
+            14.38
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MU
+          </h5>
+          <h6>
+            Mauritius
+          </h6>
+          <p>
+            latitude: 
+            -20.35
+            <br />
+            longitude: 
+            57.55
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 152"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MV
+          </h5>
+          <h6>
+            Maldives
+          </h6>
+          <p>
+            latitude: 
+            3.2
+            <br />
+            longitude: 
+            73.22
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 155"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MW
+          </h5>
+          <h6>
+            Malawi
+          </h6>
+          <p>
+            latitude: 
+            -13.25
+            <br />
+            longitude: 
+            34.3
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MX
+          </h5>
+          <h6>
+            Mexico
+          </h6>
+          <p>
+            latitude: 
+            23.63
+            <br />
+            longitude: 
+            -102.55
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MY
+          </h5>
+          <h6>
+            Malaysia
+          </h6>
+          <p>
+            latitude: 
+            4.21
+            <br />
+            longitude: 
+            101.98
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 156"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            MZ
+          </h5>
+          <h6>
+            Mozambique
+          </h6>
+          <p>
+            latitude: 
+            -18.67
+            <br />
+            longitude: 
+            35.53
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 159"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NA
+          </h5>
+          <h6>
+            Namibia
+          </h6>
+          <p>
+            latitude: 
+            -22.96
+            <br />
+            longitude: 
+            18.49
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NC
+          </h5>
+          <h6>
+            New Caledonia
+          </h6>
+          <p>
+            latitude: 
+            -20.9
+            <br />
+            longitude: 
+            165.62
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NE
+          </h5>
+          <h6>
+            Niger
+          </h6>
+          <p>
+            latitude: 
+            17.61
+            <br />
+            longitude: 
+            8.08
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 160"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NF
+          </h5>
+          <h6>
+            Norfolk Island
+          </h6>
+          <p>
+            latitude: 
+            -29.04
+            <br />
+            longitude: 
+            167.95
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 163"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NG
+          </h5>
+          <h6>
+            Nigeria
+          </h6>
+          <p>
+            latitude: 
+            9.08
+            <br />
+            longitude: 
+            8.68
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NI
+          </h5>
+          <h6>
+            Nicaragua
+          </h6>
+          <p>
+            latitude: 
+            12.87
+            <br />
+            longitude: 
+            -85.21
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NL
+          </h5>
+          <h6>
+            Netherlands
+          </h6>
+          <p>
+            latitude: 
+            52.13
+            <br />
+            longitude: 
+            5.29
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 164"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NO
+          </h5>
+          <h6>
+            Norway
+          </h6>
+          <p>
+            latitude: 
+            60.47
+            <br />
+            longitude: 
+            8.47
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 167"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NP
+          </h5>
+          <h6>
+            Nepal
+          </h6>
+          <p>
+            latitude: 
+            28.39
+            <br />
+            longitude: 
+            84.12
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NR
+          </h5>
+          <h6>
+            Nauru
+          </h6>
+          <p>
+            latitude: 
+            -0.52
+            <br />
+            longitude: 
+            166.93
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NU
+          </h5>
+          <h6>
+            Niue
+          </h6>
+          <p>
+            latitude: 
+            -19.05
+            <br />
+            longitude: 
+            -169.87
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 168"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            NZ
+          </h5>
+          <h6>
+            New Zealand
+          </h6>
+          <p>
+            latitude: 
+            -40.9
+            <br />
+            longitude: 
+            174.89
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 171"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            OM
+          </h5>
+          <h6>
+            Oman
+          </h6>
+          <p>
+            latitude: 
+            21.51
+            <br />
+            longitude: 
+            55.92
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PA
+          </h5>
+          <h6>
+            Panama
+          </h6>
+          <p>
+            latitude: 
+            8.54
+            <br />
+            longitude: 
+            -80.78
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PE
+          </h5>
+          <h6>
+            Peru
+          </h6>
+          <p>
+            latitude: 
+            -9.19
+            <br />
+            longitude: 
+            -75.02
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 172"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PF
+          </h5>
+          <h6>
+            French Polynesia
+          </h6>
+          <p>
+            latitude: 
+            -17.68
+            <br />
+            longitude: 
+            -149.41
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 175"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PG
+          </h5>
+          <h6>
+            Papua New Guinea
+          </h6>
+          <p>
+            latitude: 
+            -6.31
+            <br />
+            longitude: 
+            143.96
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PH
+          </h5>
+          <h6>
+            Philippines
+          </h6>
+          <p>
+            latitude: 
+            12.88
+            <br />
+            longitude: 
+            121.77
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PK
+          </h5>
+          <h6>
+            Pakistan
+          </h6>
+          <p>
+            latitude: 
+            30.38
+            <br />
+            longitude: 
+            69.35
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 176"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PL
+          </h5>
+          <h6>
+            Poland
+          </h6>
+          <p>
+            latitude: 
+            51.92
+            <br />
+            longitude: 
+            19.15
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 179"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PM
+          </h5>
+          <h6>
+            Saint Pierre and Miquelon
+          </h6>
+          <p>
+            latitude: 
+            46.94
+            <br />
+            longitude: 
+            -56.27
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PN
+          </h5>
+          <h6>
+            Pitcairn Islands
+          </h6>
+          <p>
+            latitude: 
+            -24.7
+            <br />
+            longitude: 
+            -127.44
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PR
+          </h5>
+          <h6>
+            Puerto Rico
+          </h6>
+          <p>
+            latitude: 
+            18.22
+            <br />
+            longitude: 
+            -66.59
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 180"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PS
+          </h5>
+          <h6>
+            Palestinian Territories
+          </h6>
+          <p>
+            latitude: 
+            31.95
+            <br />
+            longitude: 
+            35.23
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 183"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PT
+          </h5>
+          <h6>
+            Portugal
+          </h6>
+          <p>
+            latitude: 
+            39.4
+            <br />
+            longitude: 
+            -8.22
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PW
+          </h5>
+          <h6>
+            Palau
+          </h6>
+          <p>
+            latitude: 
+            7.51
+            <br />
+            longitude: 
+            134.58
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            PY
+          </h5>
+          <h6>
+            Paraguay
+          </h6>
+          <p>
+            latitude: 
+            -23.44
+            <br />
+            longitude: 
+            -58.44
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 184"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            QA
+          </h5>
+          <h6>
+            Qatar
+          </h6>
+          <p>
+            latitude: 
+            25.35
+            <br />
+            longitude: 
+            51.18
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 187"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            RE
+          </h5>
+          <h6>
+            Réunion
+          </h6>
+          <p>
+            latitude: 
+            -21.12
+            <br />
+            longitude: 
+            55.54
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            RO
+          </h5>
+          <h6>
+            Romania
+          </h6>
+          <p>
+            latitude: 
+            45.94
+            <br />
+            longitude: 
+            24.97
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            RS
+          </h5>
+          <h6>
+            Serbia
+          </h6>
+          <p>
+            latitude: 
+            44.02
+            <br />
+            longitude: 
+            21.01
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 188"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            RU
+          </h5>
+          <h6>
+            Russia
+          </h6>
+          <p>
+            latitude: 
+            61.52
+            <br />
+            longitude: 
+            105.32
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 191"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            RW
+          </h5>
+          <h6>
+            Rwanda
+          </h6>
+          <p>
+            latitude: 
+            -1.94
+            <br />
+            longitude: 
+            29.87
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SA
+          </h5>
+          <h6>
+            Saudi Arabia
+          </h6>
+          <p>
+            latitude: 
+            23.89
+            <br />
+            longitude: 
+            45.08
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SB
+          </h5>
+          <h6>
+            Solomon Islands
+          </h6>
+          <p>
+            latitude: 
+            -9.65
+            <br />
+            longitude: 
+            160.16
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 192"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SC
+          </h5>
+          <h6>
+            Seychelles
+          </h6>
+          <p>
+            latitude: 
+            -4.68
+            <br />
+            longitude: 
+            55.49
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 195"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SD
+          </h5>
+          <h6>
+            Sudan
+          </h6>
+          <p>
+            latitude: 
+            12.86
+            <br />
+            longitude: 
+            30.22
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SE
+          </h5>
+          <h6>
+            Sweden
+          </h6>
+          <p>
+            latitude: 
+            60.13
+            <br />
+            longitude: 
+            18.64
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SG
+          </h5>
+          <h6>
+            Singapore
+          </h6>
+          <p>
+            latitude: 
+            1.35
+            <br />
+            longitude: 
+            103.82
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 196"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SH
+          </h5>
+          <h6>
+            Saint Helena
+          </h6>
+          <p>
+            latitude: 
+            -24.14
+            <br />
+            longitude: 
+            -10.03
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 199"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SI
+          </h5>
+          <h6>
+            Slovenia
+          </h6>
+          <p>
+            latitude: 
+            46.15
+            <br />
+            longitude: 
+            15
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SJ
+          </h5>
+          <h6>
+            Svalbard and Jan Mayen
+          </h6>
+          <p>
+            latitude: 
+            77.55
+            <br />
+            longitude: 
+            23.67
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SK
+          </h5>
+          <h6>
+            Slovakia
+          </h6>
+          <p>
+            latitude: 
+            48.67
+            <br />
+            longitude: 
+            19.7
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 200"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SL
+          </h5>
+          <h6>
+            Sierra Leone
+          </h6>
+          <p>
+            latitude: 
+            8.46
+            <br />
+            longitude: 
+            -11.78
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 203"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SM
+          </h5>
+          <h6>
+            San Marino
+          </h6>
+          <p>
+            latitude: 
+            43.94
+            <br />
+            longitude: 
+            12.46
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SN
+          </h5>
+          <h6>
+            Senegal
+          </h6>
+          <p>
+            latitude: 
+            14.5
+            <br />
+            longitude: 
+            -14.45
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SO
+          </h5>
+          <h6>
+            Somalia
+          </h6>
+          <p>
+            latitude: 
+            5.15
+            <br />
+            longitude: 
+            46.2
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 204"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SR
+          </h5>
+          <h6>
+            Suriname
+          </h6>
+          <p>
+            latitude: 
+            3.92
+            <br />
+            longitude: 
+            -56.03
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 207"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ST
+          </h5>
+          <h6>
+            São Tomé and Príncipe
+          </h6>
+          <p>
+            latitude: 
+            0.19
+            <br />
+            longitude: 
+            6.61
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SV
+          </h5>
+          <h6>
+            El Salvador
+          </h6>
+          <p>
+            latitude: 
+            13.79
+            <br />
+            longitude: 
+            -88.9
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SY
+          </h5>
+          <h6>
+            Syria
+          </h6>
+          <p>
+            latitude: 
+            34.8
+            <br />
+            longitude: 
+            39
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 208"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            SZ
+          </h5>
+          <h6>
+            Swaziland
+          </h6>
+          <p>
+            latitude: 
+            -26.52
+            <br />
+            longitude: 
+            31.47
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 211"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TC
+          </h5>
+          <h6>
+            Turks and Caicos Islands
+          </h6>
+          <p>
+            latitude: 
+            21.69
+            <br />
+            longitude: 
+            -71.8
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TD
+          </h5>
+          <h6>
+            Chad
+          </h6>
+          <p>
+            latitude: 
+            15.45
+            <br />
+            longitude: 
+            18.73
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TF
+          </h5>
+          <h6>
+            French Southern Territories
+          </h6>
+          <p>
+            latitude: 
+            -49.28
+            <br />
+            longitude: 
+            69.35
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 212"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TG
+          </h5>
+          <h6>
+            Togo
+          </h6>
+          <p>
+            latitude: 
+            8.62
+            <br />
+            longitude: 
+            0.82
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 215"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TH
+          </h5>
+          <h6>
+            Thailand
+          </h6>
+          <p>
+            latitude: 
+            15.87
+            <br />
+            longitude: 
+            100.99
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TJ
+          </h5>
+          <h6>
+            Tajikistan
+          </h6>
+          <p>
+            latitude: 
+            38.86
+            <br />
+            longitude: 
+            71.28
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TK
+          </h5>
+          <h6>
+            Tokelau
+          </h6>
+          <p>
+            latitude: 
+            -8.97
+            <br />
+            longitude: 
+            -171.86
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 216"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TL
+          </h5>
+          <h6>
+            Timor-Leste
+          </h6>
+          <p>
+            latitude: 
+            -8.87
+            <br />
+            longitude: 
+            125.73
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 219"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TM
+          </h5>
+          <h6>
+            Turkmenistan
+          </h6>
+          <p>
+            latitude: 
+            38.97
+            <br />
+            longitude: 
+            59.56
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TN
+          </h5>
+          <h6>
+            Tunisia
+          </h6>
+          <p>
+            latitude: 
+            33.89
+            <br />
+            longitude: 
+            9.54
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TO
+          </h5>
+          <h6>
+            Tonga
+          </h6>
+          <p>
+            latitude: 
+            -21.18
+            <br />
+            longitude: 
+            -175.2
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 220"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TR
+          </h5>
+          <h6>
+            Turkey
+          </h6>
+          <p>
+            latitude: 
+            38.96
+            <br />
+            longitude: 
+            35.24
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 223"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TT
+          </h5>
+          <h6>
+            Trinidad and Tobago
+          </h6>
+          <p>
+            latitude: 
+            10.69
+            <br />
+            longitude: 
+            -61.22
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TV
+          </h5>
+          <h6>
+            Tuvalu
+          </h6>
+          <p>
+            latitude: 
+            -7.11
+            <br />
+            longitude: 
+            177.65
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TW
+          </h5>
+          <h6>
+            Taiwan
+          </h6>
+          <p>
+            latitude: 
+            23.7
+            <br />
+            longitude: 
+            120.96
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 224"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            TZ
+          </h5>
+          <h6>
+            Tanzania
+          </h6>
+          <p>
+            latitude: 
+            -6.37
+            <br />
+            longitude: 
+            34.89
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 227"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            UA
+          </h5>
+          <h6>
+            Ukraine
+          </h6>
+          <p>
+            latitude: 
+            48.38
+            <br />
+            longitude: 
+            31.17
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            UG
+          </h5>
+          <h6>
+            Uganda
+          </h6>
+          <p>
+            latitude: 
+            1.37
+            <br />
+            longitude: 
+            32.29
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            US
+          </h5>
+          <h6>
+            United States
+          </h6>
+          <p>
+            latitude: 
+            37.09
+            <br />
+            longitude: 
+            -95.71
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 228"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            UY
+          </h5>
+          <h6>
+            Uruguay
+          </h6>
+          <p>
+            latitude: 
+            -32.52
+            <br />
+            longitude: 
+            -55.77
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 231"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            UZ
+          </h5>
+          <h6>
+            Uzbekistan
+          </h6>
+          <p>
+            latitude: 
+            41.38
+            <br />
+            longitude: 
+            64.59
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            VA
+          </h5>
+          <h6>
+            Vatican City
+          </h6>
+          <p>
+            latitude: 
+            41.9
+            <br />
+            longitude: 
+            12.45
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            VC
+          </h5>
+          <h6>
+            Saint Vincent and the Grenadines
+          </h6>
+          <p>
+            latitude: 
+            12.98
+            <br />
+            longitude: 
+            -61.29
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 232"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            VE
+          </h5>
+          <h6>
+            Venezuela
+          </h6>
+          <p>
+            latitude: 
+            6.42
+            <br />
+            longitude: 
+            -66.59
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 235"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            VG
+          </h5>
+          <h6>
+            British Virgin Islands
+          </h6>
+          <p>
+            latitude: 
+            18.42
+            <br />
+            longitude: 
+            -64.64
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            VI
+          </h5>
+          <h6>
+            U.S. Virgin Islands
+          </h6>
+          <p>
+            latitude: 
+            18.34
+            <br />
+            longitude: 
+            -64.9
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            VN
+          </h5>
+          <h6>
+            Vietnam
+          </h6>
+          <p>
+            latitude: 
+            14.06
+            <br />
+            longitude: 
+            108.28
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 236"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            VU
+          </h5>
+          <h6>
+            Vanuatu
+          </h6>
+          <p>
+            latitude: 
+            -15.38
+            <br />
+            longitude: 
+            166.96
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 239"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            WF
+          </h5>
+          <h6>
+            Wallis and Futuna
+          </h6>
+          <p>
+            latitude: 
+            -13.77
+            <br />
+            longitude: 
+            -177.16
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            WS
+          </h5>
+          <h6>
+            Samoa
+          </h6>
+          <p>
+            latitude: 
+            -13.76
+            <br />
+            longitude: 
+            -172.1
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            XK
+          </h5>
+          <h6>
+            Kosovo
+          </h6>
+          <p>
+            latitude: 
+            42.6
+            <br />
+            longitude: 
+            20.9
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 240"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            YE
+          </h5>
+          <h6>
+            Yemen
+          </h6>
+          <p>
+            latitude: 
+            15.55
+            <br />
+            longitude: 
+            48.52
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 243"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            YT
+          </h5>
+          <h6>
+            Mayotte
+          </h6>
+          <p>
+            latitude: 
+            -12.83
+            <br />
+            longitude: 
+            45.17
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ZA
+          </h5>
+          <h6>
+            South Africa
+          </h6>
+          <p>
+            latitude: 
+            -30.56
+            <br />
+            longitude: 
+            22.94
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ZM
+          </h5>
+          <h6>
+            Zambia
+          </h6>
+          <p>
+            latitude: 
+            -13.13
+            <br />
+            longitude: 
+            27.85
+          </p>
+        </div>
+      </section>
+      <section
+        aria-hidden="true"
+        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 244"
+        style="flex: 40%; height: 155px;"
+      >
+        <div>
+          <h5
+            data-testid="country-details"
+          >
+            ZW
+          </h5>
+          <h6>
+            Zimbabwe
+          </h6>
+          <p>
+            latitude: 
+            -19.02
+            <br />
+            longitude: 
+            29.15
+          </p>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+`;
