@@ -35,9 +35,3 @@ code {
 .table-row:nth-child(odd) {
   background-color: #ec4c8a;
 }
-
-.countryDetails:hover {
-  transform: scale(1.06);
-  transition: all 0.5s;
-  background-color: #dc2879;
-}
