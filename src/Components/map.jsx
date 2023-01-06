@@ -6,7 +6,7 @@ const geoUrl = 'https://raw.githubusercontent.com/deldersveld/topojson/master/wo
 export default function MapChart() {
   return (
     <ComposableMap style={{ fill: '#2a354d', backgroundColor: '#da4c7a' }}>
-      <Geographies geography={geoUrl}>
+      <Geographies geography={geoUrl} data-testid="map">
         {({ geographies }) => geographies.map((geo) => (
           <Geography key={geo.rsmKey} geography={geo} />
         ))}
