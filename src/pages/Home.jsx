@@ -49,12 +49,12 @@ function Home() {
             onClick={() => handleClick(element)}
             aria-hidden="true"
             style={{ flex: '40%', height: '155px' }}
-            className={`countryDetails d-flex text-center justify-content-center align-items-center text-white link-light ${
+            className={`d-flex text-center justify-content-center align-items-center text-white link-light ${
               color === index ? (color = updateResult(color)) : 'backgroundColorOdd'
             }`}
           >
             <div>
-              <h5>{element[0]}</h5>
+              <h5 data-testid="country-details">{element[0]}</h5>
               <h6>{element[3]}</h6>
               <p>
                 latitude:&nbsp;
