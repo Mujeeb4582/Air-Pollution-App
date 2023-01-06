@@ -5,7 +5,7 @@ import MapChart from '../Components/map';
 const About = () => {
   const pollutionData = useSelector((state) => state.airPollution);
   return (
-    <div className="text-center">
+    <div className="text-center" data-testid="pollution-table">
       <MapChart />
       {pollutionData.loading && <h2>Loading...</h2>}
       {!pollutionData.loading && pollutionData.error ? (
