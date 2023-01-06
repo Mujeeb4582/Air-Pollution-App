@@ -33,9 +33,11 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [Screen Shot](#app-screen-shots)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Video Demo](#video-demo)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -58,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 This mobile-web application retrieves data on air pollution from an API and displays it in a web browser. It was designed using React and Redux.
 
-## 🛠 App Screen-Shots <a name="app-screen-shots"></a>
+## App Screen-Shots <a name="app-screen-shots"></a>
 
 <div align="center">
     <img src="./src/images/HomePage.jpeg" width="300px"</img> 
@@ -95,6 +97,10 @@ This mobile-web application retrieves data on air pollution from an API and disp
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
+
+## 🚀 Video Demo <a name="video-demo"></a>
+
+- 5 mint short [Video Demo Link](https://www.loom.com/share/88fd29d7c7fa4231a05c2790b3a14b6a)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
