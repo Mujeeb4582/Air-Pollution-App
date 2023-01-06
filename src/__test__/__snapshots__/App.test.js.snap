@@ -111,7 +111,7 @@ exports[`renders app component 1`] = `
     >
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 3"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 3"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -134,7 +134,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -157,7 +157,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -180,7 +180,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 4"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 4"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -203,7 +203,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 7"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 7"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -226,7 +226,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -249,7 +249,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -272,7 +272,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 8"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 8"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -295,7 +295,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 11"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 11"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -318,7 +318,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -341,7 +341,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -364,7 +364,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 12"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 12"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -387,7 +387,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 15"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 15"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -410,7 +410,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -433,7 +433,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -456,7 +456,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 16"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 16"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -479,7 +479,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 19"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 19"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -502,7 +502,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -525,7 +525,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -548,7 +548,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 20"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 20"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -571,7 +571,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 23"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 23"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -594,7 +594,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -617,7 +617,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -640,7 +640,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 24"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 24"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -663,7 +663,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 27"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 27"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -686,7 +686,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -709,7 +709,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -732,7 +732,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 28"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 28"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -755,7 +755,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 31"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 31"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -778,7 +778,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -801,7 +801,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -824,7 +824,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 32"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 32"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -847,7 +847,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 35"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 35"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -870,7 +870,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -893,7 +893,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -916,7 +916,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 36"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 36"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -939,7 +939,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 39"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 39"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -962,7 +962,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -985,7 +985,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1008,7 +1008,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 40"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 40"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1031,7 +1031,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 43"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 43"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1054,7 +1054,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1077,7 +1077,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1100,7 +1100,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 44"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 44"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1123,7 +1123,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 47"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 47"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1146,7 +1146,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1169,7 +1169,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1192,7 +1192,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 48"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 48"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1215,7 +1215,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 51"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 51"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1238,7 +1238,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1261,7 +1261,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1284,7 +1284,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 52"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 52"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1307,7 +1307,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 55"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 55"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1330,7 +1330,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1353,7 +1353,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1376,7 +1376,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 56"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 56"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1399,7 +1399,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 59"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 59"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1422,7 +1422,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1445,7 +1445,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1468,7 +1468,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 60"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 60"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1491,7 +1491,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 63"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 63"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1514,7 +1514,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1537,7 +1537,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1560,7 +1560,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 64"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 64"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1583,7 +1583,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 67"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 67"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1606,7 +1606,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1629,7 +1629,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1652,7 +1652,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 68"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 68"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1675,7 +1675,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 71"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 71"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1698,7 +1698,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1721,7 +1721,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1744,7 +1744,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 72"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 72"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1767,7 +1767,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 75"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 75"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1790,7 +1790,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1813,7 +1813,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1836,7 +1836,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 76"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 76"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1859,7 +1859,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 79"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 79"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1882,7 +1882,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1905,7 +1905,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1928,7 +1928,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 80"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 80"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1951,7 +1951,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 83"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 83"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1974,7 +1974,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -1997,7 +1997,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2020,7 +2020,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 84"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 84"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2043,7 +2043,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 87"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 87"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2066,7 +2066,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2089,7 +2089,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2112,7 +2112,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 88"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 88"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2135,7 +2135,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 91"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 91"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2158,7 +2158,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2181,7 +2181,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2204,7 +2204,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 92"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 92"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2227,7 +2227,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 95"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 95"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2250,7 +2250,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2273,7 +2273,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2296,7 +2296,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 96"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 96"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2319,7 +2319,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 99"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 99"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2342,7 +2342,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2365,7 +2365,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2388,7 +2388,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 100"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 100"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2411,7 +2411,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 103"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 103"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2434,7 +2434,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2457,7 +2457,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2480,7 +2480,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 104"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 104"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2503,7 +2503,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 107"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 107"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2526,7 +2526,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2549,7 +2549,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2572,7 +2572,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 108"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 108"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2595,7 +2595,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 111"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 111"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2618,7 +2618,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2641,7 +2641,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2664,7 +2664,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 112"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 112"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2687,7 +2687,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 115"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 115"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2710,7 +2710,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2733,7 +2733,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2756,7 +2756,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 116"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 116"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2779,7 +2779,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 119"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 119"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2802,7 +2802,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2825,7 +2825,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2848,7 +2848,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 120"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 120"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2871,7 +2871,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 123"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 123"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2894,7 +2894,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2917,7 +2917,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2940,7 +2940,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 124"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 124"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2963,7 +2963,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 127"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 127"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -2986,7 +2986,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3009,7 +3009,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3032,7 +3032,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 128"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 128"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3055,7 +3055,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 131"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 131"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3078,7 +3078,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3101,7 +3101,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3124,7 +3124,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 132"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 132"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3147,7 +3147,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 135"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 135"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3170,7 +3170,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3193,7 +3193,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3216,7 +3216,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 136"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 136"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3239,7 +3239,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 139"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 139"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3262,7 +3262,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3285,7 +3285,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3308,7 +3308,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 140"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 140"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3331,7 +3331,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 143"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 143"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3354,7 +3354,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3377,7 +3377,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3400,7 +3400,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 144"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 144"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3423,7 +3423,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 147"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 147"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3446,7 +3446,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3469,7 +3469,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3492,7 +3492,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 148"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 148"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3515,7 +3515,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 151"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 151"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3538,7 +3538,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3561,7 +3561,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3584,7 +3584,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 152"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 152"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3607,7 +3607,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 155"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 155"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3630,7 +3630,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3653,7 +3653,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3676,7 +3676,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 156"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 156"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3699,7 +3699,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 159"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 159"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3722,7 +3722,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3745,7 +3745,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3768,7 +3768,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 160"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 160"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3791,7 +3791,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 163"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 163"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3814,7 +3814,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3837,7 +3837,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3860,7 +3860,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 164"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 164"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3883,7 +3883,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 167"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 167"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3906,7 +3906,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3929,7 +3929,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3952,7 +3952,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 168"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 168"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3975,7 +3975,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 171"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 171"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -3998,7 +3998,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4021,7 +4021,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4044,7 +4044,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 172"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 172"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4067,7 +4067,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 175"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 175"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4090,7 +4090,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4113,7 +4113,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4136,7 +4136,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 176"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 176"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4159,7 +4159,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 179"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 179"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4182,7 +4182,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4205,7 +4205,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4228,7 +4228,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 180"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 180"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4251,7 +4251,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 183"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 183"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4274,7 +4274,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4297,7 +4297,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4320,7 +4320,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 184"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 184"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4343,7 +4343,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 187"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 187"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4366,7 +4366,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4389,7 +4389,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4412,7 +4412,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 188"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 188"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4435,7 +4435,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 191"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 191"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4458,7 +4458,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4481,7 +4481,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4504,7 +4504,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 192"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 192"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4527,7 +4527,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 195"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 195"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4550,7 +4550,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4573,7 +4573,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4596,7 +4596,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 196"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 196"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4619,7 +4619,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 199"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 199"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4642,7 +4642,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4665,7 +4665,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4688,7 +4688,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 200"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 200"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4711,7 +4711,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 203"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 203"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4734,7 +4734,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4757,7 +4757,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4780,7 +4780,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 204"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 204"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4803,7 +4803,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 207"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 207"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4826,7 +4826,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4849,7 +4849,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4872,7 +4872,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 208"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 208"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4895,7 +4895,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 211"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 211"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4918,7 +4918,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4941,7 +4941,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4964,7 +4964,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 212"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 212"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -4987,7 +4987,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 215"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 215"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5010,7 +5010,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5033,7 +5033,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5056,7 +5056,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 216"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 216"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5079,7 +5079,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 219"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 219"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5102,7 +5102,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5125,7 +5125,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5148,7 +5148,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 220"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 220"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5171,7 +5171,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 223"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 223"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5194,7 +5194,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5217,7 +5217,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5240,7 +5240,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 224"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 224"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5263,7 +5263,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 227"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 227"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5286,7 +5286,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5309,7 +5309,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5332,7 +5332,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 228"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 228"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5355,7 +5355,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 231"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 231"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5378,7 +5378,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5401,7 +5401,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5424,7 +5424,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 232"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 232"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5447,7 +5447,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 235"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 235"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5470,7 +5470,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5493,7 +5493,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5516,7 +5516,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 236"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 236"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5539,7 +5539,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 239"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 239"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5562,7 +5562,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5585,7 +5585,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5608,7 +5608,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 240"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 240"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5631,7 +5631,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 243"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 243"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5654,7 +5654,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5677,7 +5677,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light backgroundColorOdd"
         style="flex: 40%; height: 155px;"
       >
         <div>
@@ -5700,7 +5700,7 @@ exports[`renders app component 1`] = `
       </section>
       <section
         aria-hidden="true"
-        class="countryDetails d-flex text-center justify-content-center align-items-center text-white link-light 244"
+        class="d-flex text-center justify-content-center align-items-center text-white link-light 244"
         style="flex: 40%; height: 155px;"
       >
         <div>
