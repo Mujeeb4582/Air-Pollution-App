@@ -33,9 +33,11 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [Screen Shot](#app-screen-shots)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Video Demo](#video-demo)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -58,13 +60,19 @@ After you're finished please remove all the comments and instructions!
 
 This mobile-web application retrieves data on air pollution from an API and displays it in a web browser. It was designed using React and Redux.
 
+## App Screen-Shots <a name="app-screen-shots"></a>
+
+<div align="center">
+    <img src="./src/images/HomePage.jpeg" width="300px"</img> 
+    <img src="./src/images/DetailsPage.jpeg" width="300px"</img> 
+</div>
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 <a name="built-with">![HTML](https://img.shields.io/badge/-HTML-orange) <br> ![CSS](https://img.shields.io/badge/-CSS-blue) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) <br> ![Webpack](https://img.shields.io/badge/-Webpack-green) <br> ![React.js](https://img.shields.io/badge/-Rect.js-black)</a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -74,16 +82,9 @@ This mobile-web application retrieves data on air pollution from an API and disp
 </details>
 
 <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://openweathermap.org/api/air-pollution#:~:text=Air%20Pollution%20API%20concept,-Air%20Pollution%20API&text=Besides%20basic%20Air%20Quality%20Index,PM2.5%20and%20PM10).">Air Pollution API</a></li>
   </ul>
 </details>
 
@@ -91,21 +92,19 @@ This mobile-web application retrieves data on air pollution from an API and disp
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- SPA
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
+## 🚀 Video Demo <a name="video-demo"></a>
+
+- 5 mint short [Video Demo Link](https://www.loom.com/share/88fd29d7c7fa4231a05c2790b3a14b6a)
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://air-pollution.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,13 +112,13 @@ This mobile-web application retrieves data on air pollution from an API and disp
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
+- [Node](https://nodejs.org/en/) installed in your computer
+- [Git](https://git-scm.com/) installed in your computer
 
 <!--
 Example command:
@@ -133,63 +132,42 @@ Example command:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/Mujeeb4582/Air-Pollution-App.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
   cd my-project
-  gem install
+  npm install
 ```
---->
-
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  npm start
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
 ```sh
-  bin/rails test test/models/article_test.rb
+  npm test
 ```
---->
 
 ### Deployment
 
 You can deploy this project using:
 
-<!--
-Example:
-
 ```sh
-
+  npm build
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,19 +175,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Mujeeb ur Rahman**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Mujeeb4582](https://github.com/Mujeeb4582)
+- Twitter: [@Mujeebu93992980](https://twitter.com/Mujeebu93992980)
+- LinkedIn: [@Mujeeb](https://www.linkedin.com/in/rahman-mujeeb/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,11 +187,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- Add search country by voice
+- Allow user to add new data to API
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,7 +198,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mujeeb4582/Air-Pollution-App/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -239,9 +206,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give a Star⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -249,9 +214,10 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+- Thanks to the Microverse team for the great curriculum.
+- Thanks to the Code Reviewer(s) for the insightful feedback.
+- Thanks to Nelson Sakwa on [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)) for providing us this template.
+- Hat tip to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -259,15 +225,14 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **How to open the Air pollution details?**
 
-  - [Answer_1]
+  - *You can click/tap on the country name or card it will navigate to details report page.*
 
-- **[Question_2]**
+- **How to return to the home page?**
 
-  - [Answer_2]
+  - *You can click the left arrow located in the top-left corner of the page.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -275,8 +240,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/Mujeeb4582/Air-Pollution-App/blob/react-redux-capstone/Licence) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders About page correctly 1`] = `
+<div
+  className="text-center"
+  data-testid="pollution-table"
+>
+  <svg
+    className="rsm-svg "
+    style={
+      Object {
+        "backgroundColor": "#da4c7a",
+        "fill": "#2a354d",
+      }
+    }
+    viewBox="0 0 800 600"
+  >
+    <g
+      className="rsm-geographies "
+      data-testid="map"
+    />
+  </svg>
+  <div
+    style={
+      Object {
+        "margin": "16px 0",
+        "textAlign": "center",
+      }
+    }
+  >
+    <h4>
+      United States
+      , 
+      US
+    </h4>
+    <h6>
+      Date: 
+      1/19/1970
+        
+      <span>
+        Air Quality Index: 
+      </span>
+      100
+    </h6>
+  </div>
+  <table
+    style={
+      Object {
+        "backgroundColor": "#da4c7a",
+        "textAlign": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <thead>
+      <tr
+        className="fs-4"
+      >
+        <th
+          className="py-2"
+          style={
+            Object {
+              "width": "50%",
+            }
+          }
+        >
+          Gases
+        </th>
+        <th
+          className="py-2"
+          style={
+            Object {
+              "width": "100%",
+            }
+          }
+        >
+          Pollutant concentration in μg/m3
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        className="table-row"
+      >
+        <td
+          className="py-3 fs-5"
+        >
+          PM25
+        </td>
+        <td
+          className="py-3 fs-5"
+        >
+          12
+        </td>
+      </tr>
+      <tr
+        className="table-row"
+      >
+        <td
+          className="py-3 fs-5"
+        >
+          PM10
+        </td>
+        <td
+          className="py-3 fs-5"
+        >
+          20
+        </td>
+      </tr>
+      <tr
+        className="table-row"
+      >
+        <td
+          className="py-3 fs-5"
+        >
+          NO2
+        </td>
+        <td
+          className="py-3 fs-5"
+        >
+          30
+        </td>
+      </tr>
+      <tr
+        className="table-row"
+      >
+        <td
+          className="py-3 fs-5"
+        >
+          SO2
+        </td>
+        <td
+          className="py-3 fs-5"
+        >
+          40
+        </td>
+      </tr>
+      <tr
+        className="table-row"
+      >
+        <td
+          className="py-3 fs-5"
+        >
+          CO
+        </td>
+        <td
+          className="py-3 fs-5"
+        >
+          50
+        </td>
+      </tr>
+      <tr
+        className="table-row"
+      >
+        <td
+          className="py-3 fs-5"
+        >
+          O3
+        </td>
+        <td
+          className="py-3 fs-5"
+        >
+          60
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

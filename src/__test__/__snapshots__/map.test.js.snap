@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders map chart component 1`] = `
+<div>
+  <svg
+    class="rsm-svg "
+    style="fill: #2a354d; background-color: rgb(218, 76, 122);"
+    viewBox="0 0 800 600"
+  >
+    <g
+      class="rsm-geographies "
+      data-testid="map"
+    />
+  </svg>
+</div>
+`;
